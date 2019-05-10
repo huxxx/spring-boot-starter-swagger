@@ -1,0 +1,13 @@
+{
+  "groups": [{
+    "name": "swagger.ui",
+    "type": "com.cxytiandi.swagger.SwaggerListProperties",
+    "sourceType": "com.cxytiandi.swagger.SwaggerListProperties"
+  }],
+  "properties": [{
+    "name": "swagger.ui.confs",
+    "type": "java.util.List<com.cxytiandi.swagger.SwaggerProperties>",
+    "sourceType": "com.cxytiandi.swagger.SwaggerListProperties"
+  }],
+  "hints": []
+}
